@@ -1,9 +1,9 @@
 ---
-title: "About"
+title: "Sijor's website"
 ---
 
 About this site
 
 ```{r}
-1 + 1
+"About Me:......."
 ```
